@@ -19,3 +19,7 @@ udemy 의 The Web Developer Bootcamp - colt steele 의 강의에 기반한 스�
 5.  Startup Landing Page
 6.  JS Stalker
 7.  그외 js 실습. 깃헙에 올릴 필요 x
+
+## 4주차 과제
+1. score keeper
+2. color game
